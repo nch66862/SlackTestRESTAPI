@@ -1,0 +1,1 @@
+web: gunicorn priority.wsgi --log-file -
